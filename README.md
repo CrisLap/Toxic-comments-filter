@@ -1,6 +1,6 @@
 # Deep Learning Project: Toxic Comment Filter
 
-Hello and welcome! Thank you for taking the time to explore this project :blush:
+Hello and welcome! Thank you for taking the time to explore this project
 
 The present project aims to develop a Deep Learning multi-label classification model for filtering toxic comments within social network platforms.
 
